@@ -1,9 +1,10 @@
-import PropDrill from './prop_dril/PropDrill'
+// import PropDrill from './prop_dril/PropDrill'
+import ContextApi from "./context/ContextApi";
 
 function App() {
   return (
     <div className="App">
-      <PropDrill />
+      <ContextApi />
     </div>
   );
 }
